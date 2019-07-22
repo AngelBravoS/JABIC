@@ -1,0 +1,9 @@
+.geanyprj
+JABIC.geany
+TestChain
+Makefile
+CMakeCache.txt
+CMakeFiles/
+.git/
+notas
+*.o
